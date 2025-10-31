@@ -2,7 +2,9 @@
 
 - a collection of pixel art pieces that I created
 - file types
-  - .png
+  - .ase = aseprite
+  - .pal = palettes
+  - .png = image
 - different sizes
   - 9x9
   - 16x16
